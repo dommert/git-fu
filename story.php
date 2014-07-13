@@ -7,6 +7,6 @@
 <?php
   $end = "<p>The end.</p>"
   if(isset($_GET['story_end']) {
-    echo $end
+    echo $end;
   }
 ?>
