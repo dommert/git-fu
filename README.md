@@ -1,7 +1,9 @@
-Demo-Repo
+Git-Fu
 ===================
 
-This is a Demo Repository to help learn Git
+Git-Fu is a demo repo you can fork all night long! 
+Help expand the *story of git* 
+Show of how mighty your Git-Fu is and contribute to the project
 
 ## Instructions
 * *FORK* the Repo
