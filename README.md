@@ -1,9 +1,9 @@
 Git-Fu
 ===================
 
-Git-Fu is a demo repo you can fork all night long! 
-Help expand the *story of git* 
-Show of how mighty your Git-Fu is and contribute to the project
+Git-Fu is a demo repo you can fork all night long!! 
+Help expand the "*story of Git*". 
+Show of how mighty your Git-Fu is, and contribute to the project!
 
 ## Instructions
 * *FORK* the Repo
@@ -15,4 +15,5 @@ Show of how mighty your Git-Fu is and contribute to the project
 
 ## Bonus Round
 * Create a *ISSUE*
+* (Branches coming soon)
 
