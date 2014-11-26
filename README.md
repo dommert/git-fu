@@ -4,7 +4,7 @@ Git-Fu
 Git-Fu is a demo repo you can fork all night long!! 
 Help expand the "*story of Git*". 
 Show of how mighty your Git-Fu is, and contribute to the project!
-
+Visit the current story at http://dommert.github.io/git-fu/
 ## Instructions
 * *FORK* the Repo
 * Add your name and email to the 'index.html' unorganized list. 
